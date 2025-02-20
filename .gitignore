@@ -1,0 +1,33 @@
+# Ignore SolidWorks temporary files
+*.sldprt
+*.sldasm
+*.slddrw
+*.sldlck
+*.sldblk
+*.sldbom
+*.slddrt
+*.sldlfp
+*.sldsym
+*.sldstd
+*.sldtls
+*.sldlfp
+*.sldrev
+*.sldreg
+
+# Ignore backup files
+*.bak
+*.swb
+
+# Ignore cache and temporary files
+*.tmp
+*.swj
+*.swp
+
+# Ignore PDM vault files (if applicable)
+*.sldv
+*.sldvrf
+
+# Ignore other unnecessary files
+*.log
+*.err
+*.out
